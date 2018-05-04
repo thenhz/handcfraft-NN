@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 import pandas as pd
-from NeuralNetwork import NeuralNetwork
+from nhzworks.NeuralNetwork import NeuralNetwork
 from Utils import Utils
 
 inputs = np.array([[0.5, -0.2, 0.1]])

@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from NeuralNetwork import NeuralNetwork
+from nhzworks.NeuralNetwork import NeuralNetwork
 import sys
 from Utils import Utils
 
